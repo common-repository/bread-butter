@@ -1,0 +1,29 @@
+.breadbutter-popup:before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.breadbutter-popup .popup-close {
+    display: none;
+}
+
+.bb-gated-sign-in-link {
+    margin-right: 8px;
+    margin-left: 8px;
+}
+
+.bb-content-r .bb-mobile-collpase .breadbutter-floating-text-holder.mobile {
+    display: flex !important;
+}
+
+.bb-content-r .bb-mobile-collpase+.breadbutter-mask {
+    display: unset !important;
+}
+
+.bb-content-r .breadbutter-popup.bb-mobile-device[data-collapsed="false"] .bb-mobile-handler {
+    /*display: none !important;*/
+}

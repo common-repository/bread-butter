@@ -1,0 +1,7 @@
+.bb-profile-widget {
+    width: 200px;
+}
+
+.bb-profile-widget .bb-hidden {
+    display: none;
+}

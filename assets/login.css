@@ -1,0 +1,43 @@
+.ll-login-fields {
+    float: left;
+    display: none;
+}
+
+.ll-error-message {
+    font-size: smaller;
+    color: red;
+    margin-bottom: 1rem;
+}
+
+.ll-login-fields.visible {
+    display: block;
+    width: 100%;
+}
+
+.ll-login-button {
+    position: relative;
+    /*width: 10.5rem;*/
+    /*height: 1.4rem;*/
+    line-height: 1.4rem;
+    margin: 3.5rem 0 0;
+    padding: .5rem;
+    border-radius: 2px;
+    display: block;
+    cursor: pointer;
+}
+
+.ll-login-fields .breadbutter-ui {
+    justify-content: flex-start;
+    background: none!important;
+    margin: 0 0 1rem !important;
+    width: 100% !important;
+    box-shadow: none !important;
+}
+
+.ll-login-fields .breadbutter-ui .icon {
+    padding: 0 !important;
+}
+
+.ll-login-fields .breadbutter-ui .icon > div{
+    margin-right: 0 !important;
+}

@@ -1,0 +1,19 @@
+{
+    "name": "breadbutter/breadbutter-connect",
+    "description": "Bread & Butter IO",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Howie Lee",
+            "email": "hlee@breadbutter.io"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "BreadButter_WP_Plugin\\": "./src"
+        }
+    }
+}

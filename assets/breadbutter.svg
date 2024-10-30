@@ -1,0 +1,31 @@
+<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <clipPath id="clip-path-1">
+            <path fill="none" d="m13.21956,11.823l-1.914,5.4a0.87,0.87 0 0 0 0.507,1.122l5.435,1.885a0.871,0.871 0 0 0 1.122,-0.506l1.306,-5.2a0.871,0.871 0 0 0 -0.507,-1.122l-4.827,-2.086a0.87,0.87 0 0 0 -1.122,0.507" data-name="Path 1108" id="Path_1108"/>
+        </clipPath>
+        <clipPath id="clip-path-2-1">
+            <rect x="-82.20844" y="3.599" fill="none" height="24.802" width="110" data-name="Rectangle 633" id="Rectangle_633"/>
+        </clipPath>
+        <linearGradient gradientUnits="objectBoundingBox" y2="1.557" x2="-7.498" y1="1.557" x1="-7.595" id="linear-gradient-1">
+            <stop stop-color="#ffde00" offset="0"/>
+            <stop stop-color="#ff9b00" offset="1"/>
+        </linearGradient>
+    </defs>
+    <g>
+        <title>Layer 1</title>
+        <g data-name="Group 2258" id="Group_2258">
+            <g data-name="Group 2165" id="Group_2165">
+                <g data-name="Group 2213" id="Group_2213">
+                    <g clip-path="url(#clip-path-1)" data-name="Group 2212" id="Group_2212">
+                        <rect transform="rotate(-69.287 8.11156 19.256)" x="8.11156" y="19.256" fill="url(#linear-gradient-1)" height="11.38" width="11.629" data-name="Rectangle 632" id="Rectangle_632"/>
+                    </g>
+                </g>
+                <g data-name="Group 2215" id="Group_2215">
+                    <g clip-path="url(#clip-path-2-1)" data-name="Group 2214" id="Group_2214">
+                        <path d="m26.49956,14.081a5.245,5.245 0 0 0 1.292,-3.852c0,-4.186 -4.2,-6.54 -11.821,-6.63c-7.584,0.091 -11.762,2.445 -11.762,6.63a5.241,5.241 0 0 0 1.292,3.852a3.264,3.264 0 0 0 0.3,0.262c-1.509,3.067 -1.587,9.75 -1.587,11.085a3.007,3.007 0 0 0 3,2.973l17.58,0a3.013,3.013 0 0 0 3,-2.983c0,-1.332 -0.079,-8.01 -1.587,-11.074a3.114,3.114 0 0 0 0.3,-0.262m-18.663,0.146a0.411,0.411 0 0 0 0.189,-0.461a0.416,0.416 0 0 0 -0.394,-0.31c-0.075,0 -1.844,-0.072 -1.844,-3.226c0,-4.285 6.38,-5.006 10.219,-5.052l0,0c3.809,0.045 10.2,0.762 10.2,5.052c0,3.143 -1.757,3.225 -1.845,3.226a0.414,0.414 0 0 0 -0.2,0.771c1.493,0.865 2.05,7.324 2.05,11.187a1.424,1.424 0 0 1 -1.42,1.407l-17.592,0a1.422,1.422 0 0 1 -1.419,-1.4c0,-3.867 0.555,-10.325 2.049,-11.191" data-name="Path 1109" id="Path_1109"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
